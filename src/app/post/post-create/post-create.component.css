@@ -1,0 +1,10 @@
+textarea{
+  background-color: rgb(253, 249, 244);
+}
+mat-card{
+  margin-top: 3em;
+  background-color: rgb(211, 211, 255);
+}
+mat-form-field{
+  width: 100%;
+}
